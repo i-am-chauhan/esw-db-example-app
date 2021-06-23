@@ -43,7 +43,7 @@ information.
 
 ### Command to start the server
 
-To start the app, go into backend folder and run:
+To start the app, go into `backend` folder and run:
 
 ```bash
 sbt "run start"
@@ -56,7 +56,7 @@ run `sbt "run start -p <port number>`
 
 ## Running the Frontend App
 
-To run the front end app. First go into the frontend folder and do the following:
+To run the front end app. First go into the `frontend` folder and do the following:
 
 ### Prerequisites for Running the Frontend App
 
